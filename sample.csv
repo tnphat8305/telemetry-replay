@@ -1,0 +1,4 @@
+timestamp_ms,payload
+10000,imu_ax=0.12
+10500,imu_ax=0.14
+11500,imu_ax=0.10

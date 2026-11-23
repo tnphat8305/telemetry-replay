@@ -1,0 +1,7 @@
+[package]
+name = "telemetry-replay"
+version = "0.1.0"
+edition = "2021"
+description = "Replay timestamped sensor data at an adjustable speed"
+
+[dependencies]
